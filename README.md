@@ -7,7 +7,7 @@
   **Description:** The Humanitarian Unified Assistance (H.U.A.) system is a comprehensive platform designed to support disaster response and recovery efforts. This system facilitates coordination among various agencies, enabling effective assistance to those in need. The platform is detailed further on its official website, [H.U.A. System](https://www.huasystem.org/).
 
 ### Active Directory
-- [Active Directory Projects](#)  
+- [Active Directory Projects](https://github.com/Izaiah-Stroman/Active-Directory-Projects)  
   **Description:** Collection of projects related to Active Directory setup, management, and automation. *(Coming Soon)*
 
 ### IT Networking
