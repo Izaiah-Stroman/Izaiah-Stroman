@@ -23,8 +23,8 @@
   **Description:** Various digital forensics investigations, including evidence collection and analysis. *(Coming Soon)*
 
 ### Internal Audit
-- [Internal Audit Projects](#)  
-  **Description:** Internal network audit reports and configurations. *(Coming Soon)*
+- [Internal Audit Projects](https://github.com/Izaiah-Stroman/Internal-Audit/blob/main/README.md)  
+  **Description:** Internal network audit reports and configurations. 
 
  ### SQL
 - [SQL Projects](#)  
