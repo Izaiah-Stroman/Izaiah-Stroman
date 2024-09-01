@@ -11,7 +11,7 @@
   **Description:** Collection of projects related to Active Directory setup, management, and security configurations
 
 ### IT Networking
-- [IT Network Focused Projects](#)  
+- [IT Network Focused Projects](https://github.com/Izaiah-Stroman/IT-Networking-Focused-Projects-)  
   **Description:** Projects centered around IT networking, including network setups and configurations. *(Coming Soon)*
 
 ### Penetration Testing
