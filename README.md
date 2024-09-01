@@ -15,7 +15,7 @@
   **Description:** Projects centered around IT networking, including network setups and configurations. *(Coming Soon)*
 
 ### Penetration Testing
-- [Pentesting Projects](#)  
+- [Pentesting Projects](https://github.com/Izaiah-Stroman/Penetration-Testing/blob/main/README.md)  
   **Description:** Penetration testing reports and methodologies for various environments. *(Coming Soon)*
 
 ### Digital Forensics
