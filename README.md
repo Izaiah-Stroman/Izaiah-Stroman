@@ -12,7 +12,7 @@
 
 ### IT Networking
 - [IT Network Focused Projects](https://github.com/Izaiah-Stroman/IT-Networking-Focused-Projects-)  
-  **Description:** Projects centered around IT networking, including network setups and configurations. *(Coming Soon)*
+  **Description:** Projects centered around IT networking, including network setups and configurations. 
 
 ### Penetration Testing
 - [Pentesting Projects](https://github.com/Izaiah-Stroman/Penetration-Testing/blob/main/README.md)  
@@ -20,7 +20,7 @@
 
 ### Digital Forensics
 - [Digital Forensics Projects](https://github.com/Izaiah-Stroman/Digital-Forensics/blob/main/README.md)  
-  **Description:** Various digital forensics investigations, including evidence collection and analysis. *(Coming Soon)*
+  **Description:** Various digital forensics investigations, including evidence collection and analysis. 
 
 ### Internal Audit
 - [Internal Audit Projects](https://github.com/Izaiah-Stroman/Internal-Audit/blob/main/README.md)  
@@ -32,7 +32,7 @@
 
 ### Security Operations Center (SOC)
 - [SOC Projects](https://github.com/Izaiah-Stroman/Security-Operations-Center-SOC-/blob/main/README.md)  
-  **Description:** Security Operations Center projects, including monitoring and incident response. *(Coming Soon)*
+  **Description:** Security Operations Center projects, including monitoring and incident response. 
 
 
 <h2> 🤳 Connect with me:</h2>
