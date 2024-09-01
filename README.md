@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 ### Humanitarian Unified Assistance (H.U.A.) System
-- [H.U.A. System](https://github.com/Izaiah-Stroman/HUA_System)  
+- [H.U.A. System](https://github.com/Izaiah-Stroman/H.U.A-Humanitarian-Unified-Assistance-System/tree/main)  
   **Description:** The Humanitarian Unified Assistance (H.U.A.) system is a comprehensive platform designed to support disaster response and recovery efforts. This system facilitates coordination among various agencies, enabling effective assistance to those in need. The platform is detailed further on its official website, [H.U.A. System](https://www.huasystem.org/).
 
 ### Active Directory
