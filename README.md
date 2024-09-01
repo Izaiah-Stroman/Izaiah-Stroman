@@ -27,8 +27,8 @@
   **Description:** Internal network audit reports and configurations. 
 
  ### SQL
-- [SQL Projects](#)  
-  **Description:** SQL databases, queries, and reports related to various data-driven projects. *(Coming Soon)*
+- [SQL Projects](https://github.com/Izaiah-Stroman/SQL-/blob/main/README.md)  
+  **Description:** SQL databases, queries, and reports related to various data-driven projects. 
 
 ### Security Operations Center (SOC)
 - [SOC Projects](#)  
