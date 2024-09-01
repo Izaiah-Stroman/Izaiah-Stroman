@@ -2,22 +2,33 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+### Active Directory
+- [Active Directory Projects](#)  
+  **Description:** Collection of projects related to Active Directory setup, management, and automation. *(Coming Soon)*
 
+### Digital Forensics
+- [Digital Forensics Projects](#)  
+  **Description:** Various digital forensics investigations, including evidence collection and analysis. *(Coming Soon)*
+
+### Internal Audit
+- [Internal Audit Projects](#)  
+  **Description:** Internal network audit reports and configurations. *(Coming Soon)*
+
+### IT Networking
+- [IT Network Focused Projects](#)  
+  **Description:** Projects centered around IT networking, including network setups and configurations. *(Coming Soon)*
+
+### Penetration Testing
+- [Pentesting Projects](#)  
+  **Description:** Penetration testing reports and methodologies for various environments. *(Coming Soon)*
+
+### Security Operations Center (SOC)
+- [SOC Projects](#)  
+  **Description:** Security Operations Center projects, including monitoring and incident response. *(Coming Soon)*
+
+### SQL
+- [SQL Projects](#)  
+  **Description:** SQL databases, queries, and reports related to various data-driven projects. *(Coming Soon)*
 
 
 <h2> 🤳 Connect with me:</h2>
