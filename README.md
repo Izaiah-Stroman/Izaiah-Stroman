@@ -31,7 +31,7 @@
   **Description:** SQL databases, queries, and reports related to various data-driven projects. 
 
 ### Security Operations Center (SOC)
-- [SOC Projects](#)  
+- [SOC Projects](https://github.com/Izaiah-Stroman/Security-Operations-Center-SOC-/blob/main/README.md)  
   **Description:** Security Operations Center projects, including monitoring and incident response. *(Coming Soon)*
 
 
