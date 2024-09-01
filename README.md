@@ -16,7 +16,7 @@
 
 ### Penetration Testing
 - [Pentesting Projects](https://github.com/Izaiah-Stroman/Penetration-Testing/blob/main/README.md)  
-  **Description:** Penetration testing reports and methodologies for various environments. *(Coming Soon)*
+  **Description:** Penetration testing reports and methodologies for various environments. 
 
 ### Digital Forensics
 - [Digital Forensics Projects](#)  
