@@ -1,4 +1,4 @@
-<h1>Hi, I'm Izaiah! 
+<h1>Hi, I'm Izaiah! Born & Raised In Hawaii,devloping IT & Cybersecurity Professional
 
 <h2>👨‍💻 IT Projects:</h2>
 
