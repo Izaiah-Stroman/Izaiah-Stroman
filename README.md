@@ -22,13 +22,13 @@
 - [Internal Audit Projects](#)  
   **Description:** Internal network audit reports and configurations. *(Coming Soon)*
 
+ ### SQL
+- [SQL Projects](#)  
+  **Description:** SQL databases, queries, and reports related to various data-driven projects. *(Coming Soon)*
+
 ### Security Operations Center (SOC)
 - [SOC Projects](#)  
   **Description:** Security Operations Center projects, including monitoring and incident response. *(Coming Soon)*
-
-### SQL
-- [SQL Projects](#)  
-  **Description:** SQL databases, queries, and reports related to various data-driven projects. *(Coming Soon)*
 
 
 <h2> 🤳 Connect with me:</h2>
