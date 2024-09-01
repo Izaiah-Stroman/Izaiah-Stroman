@@ -8,7 +8,7 @@
 
 ### Active Directory
 - [Active Directory Projects](https://github.com/Izaiah-Stroman/Active-Directory-Projects)  
-  **Description:** Collection of projects related to Active Directory setup, management, and automation. *(Coming Soon)*
+  **Description:** Collection of projects related to Active Directory setup, management, and security configurations
 
 ### IT Networking
 - [IT Network Focused Projects](#)  
